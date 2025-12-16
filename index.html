@@ -1389,23 +1389,19 @@
         const contact = document.getElementById('contact-info').value;
         const message = document.getElementById('message').value;
 
-        // TELEGRAM API CONFIGURATION
-        // Replace these with your actual details
-        const BOT_TOKEN = '';
-        const CHAT_ID = '';
+        // VERCEL API CALL
+        // No Token or ID here! They are on the server.
 
         const text = `${t.title}\n\n${t.name} ${name}\n${t.contact} ${contact}\n${t.msg} ${message}`;
 
         try {
-          const response = await fetch(`https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`, {
+          const response = await fetch('/api/telegram', {
             method: 'POST',
             headers: {
               'Content-Type': 'application/json',
             },
             body: JSON.stringify({
-              chat_id: CHAT_ID,
-              text: text,
-              parse_mode: 'HTML'
+              text: text
             })
           });
 
