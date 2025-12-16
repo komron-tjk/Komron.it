@@ -47,4 +47,5 @@ This project uses **Vercel** to securely handle credentials.
 *   **Telegram:** [@Komron_developer](https://t.me/Komron_developer)
 *   **GitHub:** [komron-tjk](https://github.com/komron-tjk)
 
-© 2025 Komron Developer. All rights reserved.
+
+
