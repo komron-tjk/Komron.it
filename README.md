@@ -1,119 +1,50 @@
-# 🚀 Komron.dev — Full Stack Developer | Telegram Bots | AI Agents
+# Komron Developer - Portfolio Landing Page
+
+🇺🇸 **English** | 🇹🇯 **Тоҷикӣ**
 
 ---
 
-## 🇬🇧 English
+## 🇺🇸 English
 
-This repository contains my **personal portfolio website**. The site is designed to showcase my services, portfolio, and provide an easy way for clients to contact me.
+A modern, responsive portfolio website for a **Full Stack Developer & AI Agent Expert**. This project showcases services, projects, and pricing, featuring a secure contact form integrated with Telegram.
 
-🔗 **Live Demo:** [https://komron-tjk.github.io/komron-portfolio/](https://komron-tjk.github.io/komron-portfolio/)
+### 🚀 Features
+*   **Responsive Design:** Fully responsive for Mobile, Tablet, and Desktop.
+*   **Theme Toggle:** Dark Mode (default) and Light Mode.
+*   **Multi-language Support:** Tajik (TJ), Russian (RU), and English (EN).
+*   **Secure Contact Form:** Sends messages directly to Telegram using Vercel Serverless Functions.
+*   **Animations:** Smooth scroll reveals and particle effects.
 
-### 👨‍💻 About the Project
-
-This website serves as a **landing page / portfolio** for a Full Stack Developer.
-
-With this site, clients can:
-
-* Learn more about me and my skills
-* Explore services and pricing
-* View portfolio examples
-* Contact me easily via Telegram
-
-### ⚙️ Tech Stack
-
-* HTML5
-* CSS3 (Modern UI, Glassmorphism)
-* JavaScript (Vanilla JS)
-* Particles.js
-* Font Awesome
-* Google Fonts (Outfit)
-
-### ✨ Features
-
-* Dark / Light mode
-* Multilingual support (TJ / RU / EN)
-* Fully responsive design
-* Scroll-based animations
-* Contact form with Telegram integration
-* Social links (Telegram, Instagram, LinkedIn, GitHub)
-
-### 📂 Project Structure
-
-```bash
-/
-├── index.html
-├── README.md
-```
-
-### 🚀 Usage
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/komron-tjk/komron-portfolio.git
-```
-
-2. Open `index.html` in your browser
-
-### 🌍 Deployment
-
-The website is deployed using **GitHub Pages**.
+### ⚙️ Deployment
+This project uses **Vercel** to securely handle credentials.
+1.  Push code to GitHub.
+2.  Import to Vercel.
+3.  Add Environment Variables: `BOT_TOKEN` and `CHAT_ID`.
 
 ---
 
 ## 🇹🇯 Тоҷикӣ
 
-Ин репозитория **сайти шахсии портфолио**-и ман мебошад. Сайт барои муаррифии хизматҳо, портфолио ва қабули дархостҳо аз мизоҷон сохта шудааст.
+Вебсайти портфолиои муосир барои **Full Stack Developer ва AI Agent Expert**. Ин лоиҳа хизматрасониҳо, нархнома ва корҳои анҷомшударо нишон медиҳад.
 
-🔗 **Намоиши зинда:** [https://komron-tjk.github.io/komron-portfolio/](https://komron-tjk.github.io/komron-portfolio/)
+### 🚀 Имкониятҳо
+*   **Дизайни мутобиқ (Responsive):** Барои телефон, планшет ва компютер.
+*   **Rejim:** Шабона (Dark) ва Рӯзона (Light).
+*   **Забонҳо:** Тоҷикӣ (TJ), Русӣ (RU) ва Англисӣ (EN).
+*   **Формаи бехатар:** Дархостҳоро мустақиман ба Telegram мефиристад (тавассути Vercel).
+*   **Аниматсия:** Ҳаракатҳои зебо ва эффектҳои визуалӣ.
 
-### 🧑‍💻 Дар бораи лоиҳа
-
-Ин веб-сайт ҳамчун **landing page / portfolio** барои Full Stack Developer истифода мешавад.
-
-Бо ёрии ин сайт:
-
-* Мизоҷон метавонанд бо ман шинос шаванд
-* Хизматҳо ва нархҳоро бинанд
-* Портфолиои корҳоро тамошо кунанд
-* Ба осонӣ дар Telegram тамос гиранд
-
-### ⚙️ Технологияҳо
-
-* HTML5
-* CSS3 (Modern UI, Glassmorphism)
-* JavaScript (Vanilla JS)
-* Particles.js
-* Font Awesome
-* Google Fonts (Outfit)
-
-### ✨ Имкониятҳо
-
-* Dark / Light Mode
-* Дастгирии се забон (TJ / RU / EN)
-* Responsive (мобил + десктоп)
-* Анимация ҳангоми scroll
-* Формаи дархост бо ирсоли Telegram
-* Пайвастшавӣ ба шабакаҳои иҷтимоӣ
-
-### 📂 Сохтори файлҳо
-
-```bash
-/
-├── index.html
-├── README.md
-```
+### ⚙️ Нашр (Deployment)
+Ин лоиҳа аз **Vercel** истифода мебарад, то ки Токенҳо махфӣ монанд.
+1.  Кодро ба GitHub партоед.
+2.  Ба Vercel пайваст кунед.
+3.  Дар танзимоти Vercel `BOT_TOKEN` ва `CHAT_ID`-ро илова кунед.
 
 ---
 
-## 📞 Contact / Тамос
+### 📞 Contact / Тамос
 
-* Telegram: [https://t.me/Komron_developer](https://t.me/Komron_developer)
-* GitHub: [https://github.com/komron-tjk](https://github.com/komron-tjk)
-* LinkedIn: [https://www.linkedin.com/in/komron-rezmonov-32a470315](https://www.linkedin.com/in/komron-rezmonov-32a470315)
-
----
+*   **Telegram:** [@Komron_developer](https://t.me/Komron_developer)
+*   **GitHub:** [komron-tjk](https://github.com/komron-tjk)
 
 © 2025 Komron Developer. All rights reserved.
-
-⭐ If you like this project, please give it a **Star**!
