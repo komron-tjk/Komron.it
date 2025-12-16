@@ -1,5 +1,8 @@
 # Komron Developer - Portfolio Landing Page
 
+[![Vercel Deployment](https://deploy-badge.vercel.app/project/komron-it)](https://komron-it.vercel.app)
+🌐 **Live Demo:** [komron-it.vercel.app](https://komron-it.vercel.app)
+
 🇺🇸 **English** | 🇹🇯 **Тоҷикӣ**
 
 ---
@@ -47,5 +50,4 @@ This project uses **Vercel** to securely handle credentials.
 *   **Telegram:** [@Komron_developer](https://t.me/Komron_developer)
 *   **GitHub:** [komron-tjk](https://github.com/komron-tjk)
 
-
-
+© 2025 Komron Developer. All rights reserved.
